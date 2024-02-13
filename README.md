@@ -11,7 +11,7 @@ REM                    \/__/ crisking.me
 ```
 
 
-# Wing Search: Traditional Wings Locator
+# Wingz: Traditional Wings Locator
 
 ## Overview
 Wingz is a Python application designed to help users find the best traditional wings near their location. Utilizing the Google Places API, it searches for wing places based on a user-inputted zip code, evaluates them based on a set of criteria (like price level and rating), and recommends the top choice. The application features a graphical user interface (GUI) developed with Tkinter, making it user-friendly and accessible.
@@ -41,7 +41,7 @@ Wingz requires the following Python packages:
 
 3. **Clone the Repository or Download the Script:** Obtain a copy of the Wing Search script. If you're using git, you can clone the repository. Alternatively, download the script directly from the source.
 
-4. **Install Dependencies:** Install the required Python packages by running the following command in your terminal or command prompt:
+4. **Install Dependencies:** Install the required Python packages by running the following command in your terminal or command prompt: /n
    `pip install requests schedule`
 
 
