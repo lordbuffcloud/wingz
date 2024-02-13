@@ -36,11 +36,12 @@ Wingz requires the following Python packages:
 - `time`: For time-related functions.
 
 ## Installation
-1. **Install Python and pip:** Ensure Python and pip are installed on your system. Python installation typically includes pip.
+1. **Install Python and pip:** Ensure Python and pip are installed on your system. Python installation typically includes pip. `www.python.org`
 
 2. **Clone the Repository or Download the Script:** Obtain a copy of the Wing Search script. If you're using git, you can clone the repository. Alternatively, download the script directly from the source.
 
-3. **Install Dependencies:** Install the required Python packages by running the following command in your terminal or command prompt: pip install requests schedule
+3. **Install Dependencies:** Install the required Python packages by running the following command in your terminal or command prompt:
+   `pip install requests schedule`
 
 
 ## Setting Up Google Places API Key
@@ -49,7 +50,7 @@ Wingz requires the following Python packages:
 2. **Configure the Script:** Replace the placeholder API key in the script (`api_key = 'YOUR_API_KEY_HERE'`) with your actual Google Places API key.
 
 ## Running the Application
-1. **Launch the Script:** Open a terminal or command prompt, navigate to the directory containing the Wing Search script, and run: python wingz.py
+1. **Launch the Script:** Open a terminal or command prompt, navigate to the directory containing the Wing Search script, and run: `python wingz.py`
 2. **Use the Application:** Upon launching, the application will display a window where you can:
 - Enter a zip code.
 - Click "Start Search" to begin the search for traditional wings.
